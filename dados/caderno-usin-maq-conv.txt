@@ -1,0 +1,1464 @@
+## Operaçoes de Usinagem em Máquinas Convencionais
+
+**Nome do Assistente Virtual do Senai de Campo Limpo Paulista:**Kruppinho
+
+**Slogan:** "Conhecimento sobre usinagem ao seu alcance"
+
+**Descrição do Atendente Virtual:** O  Kruppinho é um assistente do Senai de Campo Limpo Paulista e é dedicado a fornecer informações sobre processos de Usinagem em Máquinas Convencionais para alunos comprometidos com o aprendizado e conhecimento em processos de Usinagem.
+
+## Procedimentos Operacionais
+
+Mecânico de usinagem
+Operações – Usinagem em Máquinas Convencionais
+
+Sumário
+
+Calibrar furo com alargador no torno
+Tornear superfície cilíndrica externa entre pontas
+Abrir rosca triangular externa
+Tornear rebaixo interno
+Abrir rosca triangular interna
+Tornear superfície externa em mandril
+Fresar superfície plana em ângulo
+Dressar rebolo
+Balancear rebolo
+Retificar superfície plana paralela e perpendicular
+Fresar dentes retos para engrenagens cilíndricas externas
+Retificar superfície cilíndrica externa
+Centrar peças na placa de quatro castanhas independentes
+Tornear excêntrico
+Tornear superfície cônica, desalinhando cabeçote móvel
+Retificar superfície cônica externa
+Tornear superfície cônica interna
+Retificar superfície cilíndrica interna passante
+Retificar superfície cônica interna
+Abrir rosca trapezoidal externa
+Abrir rosca múltipla trapezoidal externa
+Abrir rosca trapezoidal interna
+Executar furos coordenados
+Calibrar furos com alargador na fresadora
+Serrar peças com serra de fita vertical
+Fresar dentes helicoidais
+Embuchar peças
+Calibrar furo com alargador fixo manualmente
+Calibrar furo com alargador cônico manualmente
+Calibrar furo com alargador expansível manualmente
+
+1**Calibrar furo com alargador no torno**
+    Calibrar furo com alargador no torno é uma operação utilizada para a obtenção de uma dimensão precisa e de uma baixa rugosidade.
+
+    Processo de execução:
+    1. Fure a peça.
+        Observação:
+        * Deixe sobremetal no furo, considerando o material da peça, o diâmetro do furo e o tipo de alargador.
+
+    2. Monte o alargador.
+        Observações:
+        * O alargador deve ser montado num mandril flutuante que, por sua vez, é fixado no mangote do cabeçote móvel.
+        * Na falta do mandril flutuante, utilize o mandril porta-brocas ou monte o alargador diretamente no mangote do cabeçote móvel.
+
+    3. Aproxime o cabeçote móvel do material e fixe-o.
+        Observações:
+        * O alargador deve estar alinhado com o furo.
+        * O mangote deve estar o máximo possível para dentro do cabeçote móvel.
+
+    4. Selecione a rotação para a operação de alargar de acordo com a tabela de velocidade de corte.
+
+    5. Ligue o torno e passe o alargador.
+        Observação:
+        * Utilize o fluido de corte adequado para obter bom acabamento.
+
+    6. Finalize a operação e retire o alargador.
+        Observações:
+        * O alargador deve ser retirado com o material girando no mesmo sentido da penetração.
+        * O alargador deve ser limpo com um pincel.
+
+    7. Verifique a medida com um calibrador tampão ou um micrômetro interno
+
+        Observação:
+        * Para verificar a medida, o cabeçote móvel deve ser afastado e o furo limpo.
+
+2**Tornear superfície cilíndrica externa entre pontas**
+    Tornear superfície cilíndrica externa entre pontas é uma operação que se realiza em materiais montados entre as pontas do torno. O movimento de rotação é realizado por um ponto de arraste. Executa-se em peças que devem conservar os centros para fácil centragem posterior, com a finalidade de manter a coaxialidade entre os diâmetros usinados.
+
+    Processo de execução:   
+
+    1. Faça furos de centro nos extremos da peça.
+
+    2. Monte a placa de arraste, a ponta e a contraponta no torno.
+        Observações:
+        * Limpe as roscas e os cones do eixo-árvore e do mangote.
+        * Verifique a centragem e o alinhamento das pontas e corrija, se necessário.
+
+    3. Afaste o cabeçote móvel e fixe-o na posição adequada.
+
+    4. Coloque o arrastador na peça, sem fixá-lo.
+
+    5. Ajuste o material entre as pontas e fixe o mangote.
+        Observações:
+        * Lubrifique os furos de centro com graxa no caso de contra-ponta fixa;
+        * A peça deve girar livremente, sem folga entre as pontas.
+        * Deixe o menor balanço possível do mangote.
+
+    6. Posicione e fixe o arrastador.
+        Observação:
+        * Em caso de superfícies já usinadas e acabadas, use proteção entre o arrastador e a peça.
+
+    7. Monte a ferramenta e torneie a peça.
+        Observações:
+        * Verifique se a placa arrastadora e o arrastador estão bem presos.
+
+        * Com o torno desligado e a árvore em posição neutra, gire o eixo árvore e avalie a possibilidade de colisão do pino de arraste e do arrastador com o carro superior ou com o porta-ferramentas.
+
+        * Verifique se há conicidade com o relógio comparador, com o paquímetro ou com o micrômetro e corrija, se necessário, no parafuso de alinhamento do cabeçote móvel.
+
+        * Faça a lubrificação e verifique constantemente o ajuste da ponta fixa e contraponta , pois durante o torneamento, a peça se aquece e dilata, impedindo o deslizamento da superfície do furo de centro na ponta fixa e contraponto. A falta de lubrificação provoca aquecimento elevado, danificando a ponta, contraponta e a peça.
+
+3**Abrir rosca triangular externa**
+    Abrir rosca triangular externa é um processo mecânico de usinagem destinado à obtenção de filetes, por meio da abertura de um sulco helicoidal de passo uniforme, em superfícies cilíndricas ou cônicas. Para tanto, a peça ou a ferramenta gira e uma delas se desloca simultaneamente segundo uma trajetória retilínea paralela ou inclinada ao eixo de rotação.
+
+    Processo de execução:
+
+    1. Torneie no diâmetro.
+
+    2. Verifique se o carro superior está em posição paralela ao eixo da peça.
+
+    3. Monte a ferramenta no porta-ferramenta.
+        Observações:
+        * A ponta da aresta cortante deve estar na altura da contraponta.
+
+        * Para auxiliar o posicionamento da ferramenta, utilize o escantilhão.
+
+        * Na falta do escantilhão, monte a ferramenta no porta-ferramentas do torno e incline o carro superior num ângulo que corresponda à metade do ângulo da ferramenta. Utilize a face lisa da placa como referência e aproxime a aresta de corte lateral da ferramenta, liberando o porta-ferramentas. Faça coincidir a aresta de corte lateral da ferramenta com a face lisa da placa e fixe novamente o porta-ferramentas. Retorne o carro superior à marca zero. Dessa forma, a ferramenta estará posicionada corretamente.
+
+    4. Fixe a ferramenta.
+
+    5. Determine e regule o avanço do torno.
+        Observação:
+        * O valor de avanço no torno é o próprio passo da rosca. Esse valor é encontrado em tabelas e catálogos técnicos.
+
+        Precaução:
+        * Caso seja necessária a mudança do conjunto de engrenagens, desligue a chave geral do torno e realize a troca das engrenagens.
+
+    6. Selecione a rotação adequada para roscar.
+
+    7. Ligue o torno.
+        Precaução:
+        * Assegure-se de que a proteção das engrenagens esteja colocada.
+
+    8. Encoste a ferramenta na peça.
+
+    9. Desloque manualmente a ferramenta para fora do material e registre a referência zero no anel graduado.
+
+    10. Avance a ferramenta, dando uma profundidade de corte de 0,3mm.
+
+    11. Engate o fuso.
+
+    12. Deixe a ferramenta deslocar-se num comprimento de aproximadamente 10 filetes.
+
+    13. Afaste a ferramenta, desligue o torno e verifique o passo com a ajuda do verificador de roscas ou de uma régua graduada.
+
+    14. Retorne a ferramenta ao ponto inicial de corte e desbaste a rosca.
+        Observação:
+
+        * Quando o passo da rosca confeccionada é submúltiplo do passo do fuso, o carro pode ser desengatado e colocado manualmente. Caso contrário, para voltar ao ponto inicial de corte, o retorno se faz invertendo o sentido de rotação com o carro engatado.
+
+    15. Dê a profundidade de corte recomendada.
+
+        Observação:
+        * Para obter a altura do filete, faça o controle por meio do anel graduado, observando os valores da altura do filete em tabelas e em catálogos técnicos.
+
+    16. Ligue o torno e dê um passe, interrompendo quando chegar ao comprimento previsto da rosca.
+
+    Observação:
+        * Durante a operação de roscar use fluido de corte.
+
+    17. Recue a ferramenta e dê reversão para retornar ao ponto inicial, repetindo o passo 15.
+
+    18. Dê outro passe, com uma nova profundidade de corte, deslocando lateralmente a ferramenta (folga).
+
+    19. Repita os passos 17 e 18, deslocando a ferramenta longitudinalmente, em sentido contrário ao do avanço dado no passo 18.
+
+        Observação:
+        * Continue dando passes com o mesmo procedimento, até que faltem alguns décimos de milímetro para a altura do filete.
+
+        * No caso de roscas com passo pequeno, não é necessário aplicar a folga lateral desde o início.
+
+    20. Coloque a ferramenta no centro do sulco da rosca.
+
+    21. Dê os passes necessários para a obtenção da altura do filete.
+
+    22. Verifique a rosca com uma porca calibradora, calibrador anel, calibrador regulável de rosca ou tipo passa-não-passa	
+
+        Observações:
+        * A porca calibradora deve entrar de modo justo, porém não forçado.
+        * Se necessário, repasse a rosca dando o mínimo possível de profundidade de corte até conseguir o ajuste.
+
+4**Tornear rebaixo interno**
+    Tornear rebaixo interno é uma operação semelhante à de tornear superfície cilíndrica interna, diferenciando-se por terminar em uma face plana interna. A ferramenta atua em duas direções de modo a determinar um ângulo reto. Esta operação é realizada para usinar, por exemplo, alojamentos de rolamentos ou buchas.
+
+    Processo de execução:
+
+    1. Fixe o material.
+
+    2. Fixe a ferramenta de tornear interno.
+        Observações:
+        * A ponta ferramenta deverá ficar exatamente na altura do contra ponta.
+        * Deixe a ferramenta com o menor balanço possível.
+
+    3. Aproxime a ferramenta do material e fixe o carro principal.
+
+    4. Ligue o torno.
+        Observação:
+        * Ao calcular as rotações por minuto (RPM), considerar o maior diâmetro do rebaixo.
+
+    5. Referencie a ferramenta no furo.
+
+        Torneie, dando os passes necessários, até obter um diâmetro e a profundidade com sobremetal entre 0,5 e 1mm. Termine o rebaixo.
+        Observação:
+        * Tornear primeiro o diâmetro e, em seguida, facear na profundidade requerida
+
+    6. Faça a verificação com auxílio do paquímetro.
+
+        Observações:
+        * Antes de medir, retire as rebarbas.
+        * O paquímetro não deve tocar nos cantos da peça.
+
+5**Abrir rosca triangular interna**
+    Abrir rosca triangular interna é um processo mecânico de usinagem destinado à obtenção de filetes, por meio da abertura de um sulco helicoidal de passo uniforme, em superfícies cilíndricas ou cônicas. Para tanto, a peça ou a ferramenta gira e uma delas se desloca simultaneamente segundo uma trajetória retilínea paralela ou inclinada ao eixo de rotação.
+
+    Processo de execução:
+    Com furo passante:   
+
+        1. Fure e torneie na medida.
+        2. Posicione a ferramenta de roscar.
+            Observações:
+            * A ponta da aresta cortante da ferramenta deve estar na altura do contra ponta.
+            * O posicionamento da ferramenta deve ser realizado com o auxílio de um escantilhão.
+
+            * Na falta de um escantilhão, monte a ferramenta no porta-ferramenta do torno e incline o carro superior num ângulo que corresponda à metade do ângulo do filete. Utilize a face lisa da placa como referência e aproxime a aresta de corte lateral da ferramenta, liberando o porta-ferramenta. Faça coincidir a aresta de corte da ferramenta com a face lisa da placa e fixe novamente o porta-ferramenta. Retorne novamente o carro superior à marca zero. Dessa forma a ferramenta estará posicionada corretamente.
+            * Verifique se o corpo da ferramenta passa com folga no furo da peça, e se a ponta da ferramenta ultrapassa o comprimento da peça.
+
+        3. Prepare o torno.
+            Observação:
+            * Selecione o avanço e a rotação do torno.
+            * Ligue o torno e referencie a ferramenta zerando o anel graduado do carro transversal.
+
+        4. Desloque manualmente a ferramenta para fora do furo.
+        5. Avance a ferramenta, dando uma profundidade de corte de 0,3 mm.
+
+        6. Engate o fuso e inicie a rosca.
+            Observações:
+            * Ao chegar ao comprimento da rosca, recue a ferramenta e inverta o sentido de rotação do torno.
+            * Durante o roscamento, use fluido de corte de acordo com o material.
+            * Continue dando diversos passes, até obter a altura do filete, deslocando a ferramenta lateralmente (folga).
+            * Verifique o passo com pente de rosca.
+
+        7. Termine a rosca, repassando-a com a mesma profundidade, se necessário.
+
+        8. Verifique a rosca com um parafuso ou calibrador tampão de rosca.
+            Observação:
+            * Se necessário, repasse a rosca dando o mínimo possível de profundidade de corte até conseguir o ajuste.
+
+    Com furo não passante:
+
+        1. Fure e torneie na medida.
+            Observações:
+            * Na execução de roscas sem saída, deve-se fazer um canal de alívio no final do furo com a ferramenta de sangrar interno conforme norma.
+
+            * A referência da profundidade do canal deve ser feita com o auxílio do anel graduado do carro transversal.
+
+        2. Posicione a ferramenta de roscar.
+            Observações:
+            * A ponta da aresta cortante da ferramenta deve estar na altura do contra ponta.
+
+            * O posicionamento da ferramenta deve ser realizado com o auxílio de um escantilhão.
+
+            * Verifique se o corpo da ferramenta passa com folga no furo da peça, e se a ponta da ferramenta alcança o canal de saída.
+
+        3. Prepare o torno.
+            Observação:
+            * Selecione o avanço e a rotação do torno.
+            * Ligue o torno e referencie a ferramenta com o anel graduado do carro transversal.
+
+        4. Limite o comprimento da ferramenta de acordo com o comprimento da rosca.
+
+        5. Encoste a ferramenta na peça.
+            Observação:
+            * Tome a referência inicial com o anel graduado do carro transversal.
+
+        6. Desloque manualmente a ferramenta para fora do furo.
+
+        7. Avance a ferramenta, dando uma profundidade de corte de 0,3 mm.
+
+        8. Engate o carro principal e inicie a rosca.
+            Observações:
+
+            * Ao chegar ao comprimento da rosca, recue a ferramenta e inverta o sentido de rotação do torno.
+            * Durante o roscamento, use fluido de corte de acordo com o material.
+            * Continue dando diversos passes, até obter a altura do filete, deslocando a ferramenta lateralmente (folga).
+
+        9. Termine a rosca, repassando-a com a mesma profundidade, se necessário.
+
+        10. Verifique a rosca com um parafuso ou calibrador tampão de rosca.
+            Observação:
+            * Se necessário, repasse a rosca dando o mínimo possível de profundidade de corte até conseguir o ajuste.
+
+6**Tornear superfície externa em mandril**
+    Tornear superfície externa em mandril é a operação de torneamento externo de peças montadas em um eixo fixado entre pontas ou placa e ponta. Tem como finalidade o torneamento de peças para a fabricação de polias, engrenagens e buchas.
+
+    Processo de execução:
+    No mandril, entre pontas:
+
+        1. Escolha o mandril apropriado.    
+            Observações:
+            * As peças devem ser faceadas e as faces devem estar perpendiculares ao furo, para não forçar o mandril.
+
+        2. Monte as peças no mandril.
+
+        3. Prenda o arrastador no mandril.
+
+        4. Verifique o alinhamento das pontas.
+
+        5. Torneie as peças.
+            Observações:
+            * Selecione a rotação adequada e determine o avanço de corte;
+            * Verifique se as peças estão bem presas;
+            * É aconselhável dar passes finos para evitar travamento das peças.
+
+No mandril expansível:
+
+        1. Limpe, lubrifique e monte o mandril.
+
+        2. Limpe a peça e monte-a na bucha expansível.
+
+        3. Aperte a porca dianteira até que a peça fique bem presa à bucha expansível.
+
+        4. Aperte a porca de encosto.
+
+        5. Torneie a peça.
+            Observações:
+            * Selecione a rotação adequada e determine o avanço de corte.
+            * Verifique se a peça está bem presa.
+            * É aconselhável dar passes finos para evitar o deslizamento da peça.
+
+7**Fresar superfícies planas em ângulo inclinando o cabeçote**
+    Fresar superfície plana em ângulo é obter superfícies planas inclinadas em relação à mesa da fresadora, mediante fresagem tangencial ou frontal. Para obter essa superfície recorre-se à inclinação do cabeçote da fresadora, ao perfil da ferramenta ou à inclinação da peça. É utilizada na construção de chanfros e ranhuras em ângulo.
+
+    Processo de execução:
+
+    1. Fixe o material.
+        Observação:
+        A morsa deve estar alinhada.
+
+    2. Incline o cabeçote no ângulo a ser fresado.
+        Observações:
+        * Para obter a inclinação mediante fresagem frontal, incline o cabeçote no mesmo ângulo que se deseja obter na peça.
+
+        * Para obter a inclinação mediante fresagem tangencial, incline o cabeçote em um ângulo que seja igual ao complemento do ângulo que se quer obter na peça.
+
+    3. Monte a fresa.
+
+    4. Inicie o fresamento.
+        Observações:
+        * O posicionamento da ferramenta deverá ser suficiente para usinar toda a superfície fresada.
+        * Tome referência com o anel graduado.
+        * No caso da utilização do cabeçote vertical há apenas uma articulação. O material terá que ser fresado com deslocamento transversal.
+
+        * No caso da utilização do cabeçote universal, este terá duas articulações. O material poderá ser fresado tanto com o deslocamento transversal como longitudinal.
+
+    5. Verifique a superfície fresada em ângulo com o goniômetro e ajuste se necessário.
+
+    6. Dê os passes necessários para a obtenção da dimensão desejada.
+
+8**Dressar rebolo**
+    Dressar rebolo é a operação que consiste em corrigir a superfície abrasiva do rebolo por meio da ação de um diamante, tornando-a uniforme e concêntrica.
+
+    Processo de execução:
+    Retificadora plana tangencial:
+
+        1. Limpe a superfície da placa magnética e apoie o suporte do dressador sobre ela.
+
+        2. Acione o sistema magnético da placa para fixar o suporte do diamante.
+
+        3. Monte o dressador no suporte, fixando-o firmemente para evitar vibrações.
+
+            Observação:
+            * Limpe o alojamento e a haste do diamante.
+
+        4. Incline o suporte, verificando se a inclinação está de acordo com o sentido de rotação do rebolo.
+
+        5. Posicione o suporte, deslocando a mesa de modo que o diamante fique ligeiramente à esquerda do centro do rebolo.
+
+        6. Ligue o motor do porta-rebolo.
+            Precauções:
+            * Coloque-se ao lado da máquina e afaste as mãos do rebolo em movimento.
+            * Em alguns casos de dressagem a seco deve-se usar máscara contra pó ou um equipamento de aspiração de pó.
+
+        7. Faça o rebolo tocar a ponta do dressador e referencie o anel graduado.
+
+        8. Afaste transversalmente a mesa até que o dressador fique livre do rebolo.
+
+        9. Determine a profundidade de corte em até 0,05 mm.
+            Observações:
+            * Penetre suavemente o dressador no rebolo para evitar sua ruptura.
+            * Use fluido refrigerante em abundância sobre o dressador e o rebolo.
+
+        10. Realize manualmente um passe transversal e repita-o tantas vezes quantas forem necessárias até obter uma superfície uniforme do rebolo.
+
+        11. Desloque o dressador para fora do rebolo.
+
+        12. Desligue a máquina.
+            Observação:
+            * Feche o jato do fluido refrigerante antes de parar o rebolo para evitar o desbalanceamento
+
+        13. Após a parada do rebolo, desmagnetize a placa magnética e retire o dressador.
+
+    Retificadora cilíndrica universal:
+
+        1. Fixe o suporte para diamante firmemente por meio dos parafusos
+
+        2. Monte o eixo com diamante no suporte.
+
+        3. Limite manualmente o curso da mesa, fixe os limitadores e ligue a máquina.
+            Observação:
+            * Antes de ligar a máquina, certifique-se de que os comandos de movimento automático estejam fechados.
+            Precaução:
+            * Mantenha as mãos afastadas do rebolo em movimento para evitar acidentes.
+
+        4. Faça o rebolo tocar a ponta do dressador e referencie o anel graduado.
+
+        5. Afaste transversalmente a mesa até que o dressador fique livre do rebolo.
+
+        6. Ligue o movimento automático da mesa.
+
+        7. Dê passes sucessivos com o dressador, aumentando a penetração, até obter uma superfície uniforme do rebolo
+
+            Observação:
+            * Use óleo refrigerante em abundância sobre o dressador e o rebolo.
+
+        8. Desloque o dressador para fora do rebolo.
+
+        9. Desligue a máquina.
+            Observação:
+            * Feche o jato do fluido refrigerante antes de parar o rebolo.
+
+        10. Retire o dressador após a parada do rebolo.
+
+9**Balancear rebolo**
+    Balancear rebolo é uma operação indispensável na retificação, pois o equilíbrio no rebolo evita vibrações na retificadora e permite obter superfícies de baixa rugosidade em peças. Esta operação é aplicada em rebolos novos ou rebolos que sofreram alguma avaria durante a operação e é realizada fora da retificadora com auxilio de um eixo de balanceamento e um balanceador estático.
+
+    Processo de execução:
+
+    1. Verifique o estado do rebolo, suspendendo-o pelo furo com auxílio de uma barra e golpeando-o com um macete metálico.
+
+        Observações:
+        * Se o rebolo não estiver trincado, emitirá um leve som metálico devido a vibração produzida.
+        * Se o rebolo estiver trincado a vibração não se propagará e o som não será reproduzido.
+
+    2. Monte os flanges no rebolo.
+
+        Observação:
+        * O ajuste do furo do rebolo com os flanges deve ser deslizante.
+        * Coloque arruelas de papelão, caso o rebolo não as tenha.
+
+    3. Coloque o flange superior.
+
+    4. Una os dois flanges, apertando os parafusos de fixação.
+        Observação:
+        * A fixação deve ser progressiva, com apertos sucessivos dos dois parafusos diametralmente opostos, para obter um aperto uniforme. Assegure-se de que o contato seja uniforme entre os dois flanges e o rebolo.
+
+    5. Monte o conjunto no eixo de balanceamento.
+
+    6. Coloque a arruela de apoio e aperte a porca suavemente.
+
+    7. Nivele o balanceador estático utilizando nível de precisão.  
+
+    8. Coloque o conjunto sobre as guias do balanceador estático.
+        Observação:
+        * A massa desequilibrada arrasta o rebolo e se situa na parte mais baixa
+
+    9. Introduza os contrapesos na ranhura e coloque-os em linha, na posição horizontal.
+
+    10. Desloque os contrapesos para cima e fixe-os na mesma distância, compensando o desequilíbrio
+
+    11. Gire o conjunto 90º e corrija o balanceamento movimentando os contrapesos.
+
+    12. Gire o conjunto a 180º e verifique o equilíbrio.
+
+        Observação:
+        * Gire o rebolo e observe o posicionamento de parada. Se estiver balanceado obteremos várias posições de parada. Caso pare na mesma posição após novo movimento, adicione ou desloque os contrapesos até obter o equilíbrio.
+
+10**Retificar superfície plana, paralela e perpendicular**
+    Plana e Paralela:
+
+        Retificar superfície plana e paralela é a operação mais usual na retificadora plana universal, que permite obter superfícies com baixo valor de rugosidade e dimensões precisas, pela ação de um rebolo que remove o sobremetal. Barramento de máquinas, bases e réguas são exemplos de aplicação desta operação.
+
+        Em todos os trabalhos de retificação é necessário utilizar sempre óculos de segurança. Em caso de retificação a seco, deve-se usar máscara contra pó ou um equipamento de aspiração de pó. As mãos devem ser mantidas afastadas do rebolo em movimento para evitar acidentes.
+
+        Processo de execução:
+
+        1. Dresse o rebolo.
+
+        2. Monte a peça na placa magnética.
+
+            Observações:
+            * Limpe a superfície de contato da mesa. A peça deve estar limpa e isenta de rebarbas.
+            * Apoie suavemente a peça sobre a placa magnética, com a superfície a retificar voltada para cima.
+
+        3. Acione o magnetismo da placa
+
+        4. Aproxime o rebolo manualmente, sem tocar na peça.
+
+        5. Regule os limitadores de curso longitudinal e transversal.
+            Observação:
+            * A referência para o deslocamento é o centro do rebolo, o qual deve exceder a peça em aproximadamente 10 mm.
+
+        6. Ligue o rebolo.
+            Precaução:
+            * Para evitar acidentes permaneça ao lado do rebolo.
+
+        7. Acione o movimento da mesa.
+
+        8. Tangencie o rebolo com a parte mais alta da superfície da peça.
+
+            Observação:
+
+            * Gire o volante de acionamento vertical do cabeçote porta-rebolo até que o rebolo se aproxime da peça.
+            * Movimente o botão de ajuste fino até tocar a peça.
+
+        9. Referencie o anel graduado.
+
+        10. Desloque a peça longitudinal e transversalmente até que fique livre do rebolo.
+
+        11. Determine a profundidade do passe.
+
+        12. Regule o passo do avanço transversal da mesa ou do cabeçote porta-rebolo.
+
+        13. Regule a velocidade de deslocamento longitudinal da mesa.
+
+        14. Ligue a bomba do fluido refrigerante.
+
+        15. Retifique a superfície.
+
+        16. Afaste a peça e desligue o rebolo.
+            Observação:
+            * Feche o jato do fluido refrigerante antes de parar o rebolo.
+
+        17. Aguarde a parada do rebolo e desligue o magnetismo da placa.
+
+        18. Retire a peça.
+            Precaução:
+            * Antes de colocar a mão na peça, certifique-se de que o rebolo esteja totalmente parado.
+            Observação:
+            * Não deslize a peça sobre a placa magnética para evitar danos às suas superfícies.
+
+        19. Retifique a superfície oposta.
+
+        20. Verifique a medida e o paralelismo com auxílio de relógio comparador ou micrômetro.
+
+    Plana e Perpendicular:
+
+        Retificar superfície plana e perpendicular é uma operação aplicada a peças que requerem uma tolerância de perpendicularidade rigorosa. Esta operação normalmente serve de base para outras operações do processo de usinagem.
+
+        A operação de retificar superfície plana e perpendicular pode ser realizada com o auxílio de morsa, cantoneira ou dispositivos.
+
+        Processo de execução:
+
+        Peça fixada na morsa:
+
+        1. Dresse o rebolo.
+
+        2. Fixe a morsa.
+            Observações:
+            * Dependendo do tamanho da peça e da morsa, pode-se prender a morsa diretamente na mesa da retificadora ou na placa magnética.
+            * Em caso de retificação de superfícies perpendiculares internas, deve-se alinhar a morsa tendo como referência o cabeçote do rebolo.
+
+        3. Fixe a peça.
+            Observações:
+            * Limpe a superfície de contato.
+            * A superfície de referência deve apoiar-se no mordente fixo, ficando a face a ser retificada voltada para cima.
+
+            * Se for necessário, utilize elementos auxiliares, como roletes ou calços paralelos, para a fixação da peça.
+
+        4. Retifique uniformizando a superfície.
+
+        5. Pare a máquina e verifique a perpendicularidade.
+
+        6. Conclua a retificação e verifique a perpendicularidade.
+            Observações:
+            * A perpendicularidade pode ser verificada com o auxílio de um esquadro com fio, cilindro- padrão ou dispositivo com relógio comparador a fim de obter o valor do desvio;
+
+            * Se necessário, corrija a posição da peça na morsa.
+
+    Peça fixada em cantoneira ou dispositivo:
+
+        1. Dresse o rebolo.
+
+        2. Monte e alinhe a cantoneira ou dispositivo.
+            Observação:
+            * Limpe a superfície de contato da cantoneira ou dispositivo e da mesa.
+
+        3. Fixe a peça.
+            Observações:
+            * Limpe a superfície de contato da cantoneira ou do dispositivo e da peça.
+            * Apoie a peça na cantoneira ou dispositivo de modo que a superfície a ser retificada ultrapasse a parte superior da cantoneira.
+
+            * Fixe suavemente a peça por meio de grampos, parafusos e chapas.
+            * Acerte a posição da peça e fixe-a firmemente.
+
+        4. Retifique a superfície.
+            Observação:
+            * Faça a verificação da perpendicularidade.
+
+11**Fresar dentes retos para engrenagens cilíndricas externas**
+    Fresar dentes retos para engrenagens cilíndricas externas consiste em produzir ranhuras retas distribuídas de forma equidistante sobre a superfície cilíndrica, com direção paralela ao seu eixo.
+
+    Esta operação é realizada com fresa de perfil constante denominada fresa módulo, de tal forma que o material entre duas ranhuras consecutivas constitua o dente da engrenagem.
+
+    Processo de execução:
+
+        1. Monte e prepare o aparelho divisor.
+
+        2. Prenda o blank.
+            Observações:
+            * Blank é o nome dado às peças torneadas previamente para a construção de engrenagens.
+            * Verifique previamente as dimensões do blank.
+            * Dependendo do blank pode-se utilizar mandril para prendê-lo no aparelho divisor.
+
+        3. Faça a verificação da centragem do blank com instrumento.
+
+            Observações:
+            * A ponta de contato do relógio comparador é apoiada sobre a superfície cilíndrica do blank, na direção radial. Observe o deslocamento do ponteiro durante uma volta completa do blank. Se o desvio encontrado for maior do que a tolerância especificada, devem ser feitas as correções necessárias.
+
+        4. Monte a fresa.
+            Observação:
+            * A fresa deve corresponder ao módulo e ao número de dentes que serão construídos.
+
+        5. Trace uma geratriz na altura do centro da superfície cilíndrica do blank, deslizando o calibrador traçador de altura sobre a mesa da fresadora.
+
+            Observação:
+            * O pino retrátil da manivela do divisor deve estar introduzido no furo que se considera o início das divisões.
+
+        6. Desengate o pino retrátil, gire a manivela do divisor até atingir 90º e posicione o braço do setor.
+
+        7. Alinhe o centro da fresa módulo com a geratriz.
+
+        8. Selecione a rotação da fresa e o avanço da mesa.
+
+        9. Ligue a fresadora e toque a ferramenta no material com a mesa em movimento.
+
+        10. Referencie o anel graduado em relação ao movimento vertical da mesa.
+
+        11. Situe e fixe os limitadores do avanço.
+
+        12. Dê a profundidade de corte com a fresa fora do blank.
+            Observação:
+            * Dependendo do módulo e do material da peça, poderá ser necessário um ou mais passes para atingir a profundidade total da ranhura.
+
+        13. Inicie o corte com avanço manual e ligue o automático para finalizar o passo.
+            Observação:
+            * Utilize fluido de corte adequado.
+
+        14. Gire a manivela e posicione o braço do setor para fresar a próxima ranhura.
+
+        15. Repita o passo 13.
+
+        16. Meça o primeiro dente usinado com o paquímetro para medir dentes de engrenagens.
+
+        17. Faça todas as ranhuras, repetindo os passos 13 e 14.
+            Observação:
+            * No caso de serem necessários vários passes, volte a fresar as ranhuras até alcançar a profundidade total.
+
+12**Retificar superfície cilíndrica externa**
+    Esta operação é caracterizada pela obtenção de uma superfície cilíndrica externa de alta precisão e baixa rugosidade, usinada por um rebolo em uma retificadora cilíndrica.
+
+    Processo de execução:
+
+        1. Dresse o rebolo.
+            Precaução:
+            * Não toque no rebolo quando ele estiver em movimento.
+            Observações:
+            * As arestas do rebolo devem ficar em ângulo vivo.
+            * Utilize o fluido refrigerante em abundância sobre o dressador e o rebolo.
+            * Desligue o fluido refrigerante antes de parar o rebolo
+
+        2. Prepare os cabeçotes porta-peça e contra ponta.
+
+        3. Ajuste o paralelismo da mesa, utilizando cilindro padrão.
+
+        4. Fixe a peça entre pontas.
+            Precaução:
+            * Regule o avanço rápido do rebolo (mergulho) mantendo uma distância segura da peça.
+
+        5. Desloque a mesa manualmente até o rebolo se aproximar da superfície a retificar.
+
+        6. Regule os limitadores considerando a superfície a retificar.
+            Observações:
+            * Assegure-se de que, ao deslocar a mesa para ambos os sentidos, o rebolo não toque na placa de arraste nem no cabeçote móvel.
+
+            * O rebolo não deve passar mais de um terço de sua largura nas extremidades da superfície a retificar
+
+            * Se a superfície tiver canal de saída, o deslocamento da mesa pode ser feito de forma automática.
+
+            * Se a superfície não tiver canal de saída, deve-se fazê-lo de forma manual.
+
+        7. Selecione o número de rotações da peça.
+
+        8. Ligue a máquina e regule a velocidade de avanço de acordo com o material.
+
+        9. Retifique a superfície da peça segundo indicações do desenho.
+            Observações:
+            * Utilize fluido refrigerante.
+            * Quando chegar na medida, mantenha a mesa em movimento até que o rebolo não desprenda mais fagulhas.
+            * Para efetuar a medição, afaste o rebolo observando a numeração do anel graduado.
+            * Verifique a cilindricidade da superfície retificada.
+            * Desligue o fluido refrigerante antes de desligar o rebolo para evitar o seu desbalanceamento.
+
+13**Centrar peças na placa de quatro castanhas independentes**
+    Centrar na placa de quatro castanhas independentes é uma operação utilizada para centrar materiais com formatos diversos ou para torneamento excêntrico, por meio do deslocamento independente de cada castanha.
+
+    Processo de execução:
+
+        1. 	Abra as castanhas, utilizando como referência as circunferências concêntricas, geralmente marcadas na face da placa.
+
+        2. Introduza o material na placa e aperte suavemente as castanhas.
+
+        3. Inicie a centragem da peça.
+            Observações:
+            * Para a verificação da centragem, utilize o graminho, adotando como referência o perímetro da peça ou uma traçagem. Caso se exija exatidão, utilize o relógio comparador.
+            * Se a peça estiver fora de centro, solte suavemente a castanha do lado em que o material mais se afastar da agulha e aperte a castanha oposta, deslocando o material aproximadamente metade da distância entre a peça e a agulha.
+
+        4. Repita o passo 3 até que o material fique centrado e aperte as castanhas firmemente.
+
+14**Tornear excêntrico**
+    Tornear excêntrico é uma operação para tornear partes de uma peça em que o centro do corpo a ser usinado é deslocado em relação ao eixo do torno.
+
+    Esta operação é aplicada, por exemplo, na produção de eixos de manivelas, eixos principais de prensas excêntricas e cames utilizados na construção de máquinas.
+
+    Processo de execução:
+
+    Tornear excêntrico na placa de castanhas independentes:
+
+        1. Pinte a face que será traçada.
+
+        2. Coloque o eixo sobre um bloco em “V” e determine o centro com o calibrador traçador de altura.
+
+        3. Posicione a linha de centro na perpendicular, utilizando um esquadro de base.
+
+        4. Determine o deslocamento do eixo de simetria do excêntrico e trace na peça.
+
+        5. Trace a circunferência de referência com um compasso.
+
+        6. Fixe a peça na placa de castanhas independentes.
+            Observações
+            * Utilize a contraponta e o esquadro para auxiliar na centragem da peça.
+            * Aperte ligeiramente as castanhas.
+
+        7. Aproxime a ponta da agulha do graminho da circunferência traçada.
+
+        8. Gire a placa com a mão e verifique a centralização da circunferência traçada.
+
+        9. Centre a peça, desapertando e apertando as castanhas opostas, verificando a centragem com o graminho e o esquadro.
+            Observação:
+            * Para girar a placa com a mão coloque as alavancas de rotação na posição neutra.
+            Precaução:
+            * Nunca deixe mais de uma castanha desapertada ao mesmo tempo.
+
+        10. Para balancear a placa gire-a com a mão e marque a posição de parada.
+
+        11. Fixe os pesos na parte que ficou para cima.
+
+        12. Gire novamente a placa e verifique se deve colocar ou tirar pesos para atingir o equilíbrio.
+            Precaução:
+            * Não utilize os pesos fora da periferia da placa ou parafusos muito compridos.
+
+            Observação:
+            * O balanceamento está correto quando, girando a placa várias vezes, observa-se que ela para, pelo menos, em três pontos diferentes.
+
+            13. Selecione a rotação e ligue o torno.
+                Observações:
+                * Se o torno vibrar, verifique novamente o balanceamento da placa.
+                * Não ultrapasse o limite de rotação previsto para placas de castanhas independentes.
+
+            14. Inicie o torneamento, dando passes de pequena profundidade e pouco avanço.
+                Observações:
+                * Após certo número de passes, o balanceamento deve ser verificado e corrigido, se for o caso.
+            
+                * Verifique novamente a centragem do traçado e, se necessário, faça nova centragem.
+
+            15. Dê os passes finais, terminando o excêntrico.
+
+    Tornear excêntricos entre pontas:
+
+    1. Trace os centros do excêntrico, repetindo as fases 1, 2, 3 e 4 do exemplo anterior.
+        Observação:
+        * Trace as duas faces sem remover o material do bloco em “V”.
+
+    2. Marque os centros com um punção de bico.
+
+    3. Faça os furos de centro na furadeira.
+
+    4. Monte a peça entre pontas e torneie o excêntrico.
+
+        Observações:
+        * Lubrifique os furos de centro com graxa.
+        * A peça deve girar livre e sem folga entre as pontas.
+        * Os avanços deverão ser pequenos para não quebrar a ferramenta, devido ao corte interrompido.
+
+    5. Mude a peça de centro e torneie os corpos concêntricos.
+
+15**Tornear superfície cônica, desalinhando cabeçote móvel**
+    Esta operação é utilizada para obter superfícies cônicas com a peça presa entre pontas, por meio do desalinhamento do cabeçote móvel. É empregada geralmente para cones com até 10° de inclinação e com comprimento maior que o curso do carro superior.
+
+    Processo de execução:
+
+    1. Faça furos de centro.
+        Observação:
+        * Fure com a broca de centro de forma R e utilize ponta e contra ponta de 60°.
+
+    2. Determine a dimensão em que deve ser desalinhada a contra ponta.
+
+    3. Gire o parafuso de regulagem e faça o deslocamento da contra ponta, verificando o deslocamento com paquímetro ou relógio comparador.
+    4. Prenda o material entre pontas.
+
+    5. Monte a ferramenta no porta-ferramentas.
+        Observação:
+        * A ponta da ferramenta deve ficar na altura do contra ponta.
+    6. Inicie o torneamento do cone.
+        Precaução:
+        * As pontas esféricas são mais fracas que as cônicas de 60°. Evite, portanto, esforços muito grandes, a fim de não as quebrar.
+
+    7. Verifique a conicidade medindo os diâmetros nas extremidades do cone ou usando calibrador cônico.
+
+    8. Corrija, se necessário, e termine o cone.
+
+16**Retificar superfície cônica externa**
+    Retificar superfície cônica externa é uma operação que consiste em obter conicidade inferior a 15º em uma peça, por meio do deslocamento da mesa. Este tipo de retificação é comum em hastes de mandril, eixos porta-rebolo, entre outros elementos mecânicos.
+
+    Processo de execução:
+
+    1. Dresse o rebolo.
+        Precaução:
+        * Não toque no rebolo quando ele estiver em movimento.
+        Observações:
+        * Utilize o fluido refrigerante em abundância sobre o dressador e o rebolo.
+        * Desligue o fluido refrigerante antes de parar o rebolo.
+
+    2. Prepare os cabeçotes porta-peça e contra ponta.
+
+    3. Fixe a peça entre pontas.
+        Precaução:
+        * Regule o avanço rápido do rebolo (mergulho) mantendo uma distância segura da peça.
+
+    4. Ajuste o ângulo determinado, orientando-se pelas graduações.
+        Observação:
+        * O deslocamento angular da mesa deve ser a metade do ângulo que se deseja obter.
+
+    5. Fixe a mesa.
+
+    6. Selecione o número de rotações da peça.
+
+    7. Regule os limitadores considerando a superfície a retificar
+        Observações:
+        * Assegure-se de que, ao deslocar a mesa para ambos os sentidos, o rebolo não toque na placa de arraste nem no cabeçote móvel.
+        * O rebolo não deve passar mais de um terço de sua largura nas extremidades da superfície a retificar.
+
+    8. Ligue a máquina e regule a velocidade de avanço de acordo com o material.
+
+    9. Retifique até obter a uniformidade da superfície.
+        Observações:
+        * Utilize o fluido refrigerante.
+        * Quando a superfície estiver uniforme, mantenha a mesa em movimento até que o rebolo não desprenda mais fagulhas.
+
+    10. Afaste o rebolo da superfície e desligue-o.
+        Observações:
+        * Desligue o fluido refrigerante antes de desligar o rebolo para evitar o seu desbalanceamento.
+        * Desligue o movimento automático da mesa quando o rebolo estiver no extremo situado do lado da contra ponta.
+
+    11. Retire a peça e limpe-a.
+
+    12. Aplique uma fina camada de pasta de ajuste na superfície retificada.
+
+    13. Introduza o calibrador cônico morse - fêmea, girando-o levemente.
+
+    14. Retire o calibrador e observe as marcas deixadas pela pasta de ajuste.
+        Observação:
+        * Se a parte retificada estiver perfeita, as marcas se apagarão em toda a sua extensão. Caso contrário deve ser feita a correção no ângulo de inclinação da mesa da retificadora.
+
+    15. Faça as correções necessárias do deslocamento angular da mesa até conseguir a conicidade desejada da peça.
+
+    16. Retifique nas medidas com passadas sucessivas.
+
+17**Tornear superfície cônica interna**
+    Consiste em obter superfície cônica interna por meio da ação de uma ferramenta de tornear interno com a inclinação do carro superior.
+
+    Processo de execução:
+
+    1. Fixe a ferramenta de tornear interno ajustando-a na altura do contra ponta.
+        Observação:
+        * A ferramenta deve ter o menor balanço possível, considerando o diâmetro a ser usinado, para evitar vibrações.
+
+    2. Torneie internamente no diâmetro menor do cone, levando em consideração o comprimento do cone.
+
+    3. Fixe o carro superior no ângulo de inclinação do cone.
+
+    4. Coloque o carro principal em posição de tornear e fixe-o.
+        Observação:
+        * Se o comprimento do cone for igual ao comprimento da peça, a ferramenta deverá sair da peça aproximadamente 5 mm.
+
+    5. Torneie o cone.
+        Observações:
+        * Selecione a rpm considerando o diâmetro maior do cone;
+        * As demais fases de execução são iguais a do torneamento cônico externo com o carro superior;
+        * Ajuste o cone conforme o calibrador.
+
+18**Retificar superfície cilíndrica interna passante**
+    Retificar superfície cilíndrica interna passante é uma operação aplicada a peças que possuem furos cilíndricos, que exigem uma exatidão dimensional e um baixo valor de rugosidade, como, por exemplo, buchas, anéis, casquilhos ou luvas.
+
+    Processo de execução:
+
+    1. Fixe a placa universal no cabeçote porta-peça.
+
+    2. Fixe a peça na placa universal.
+        Observação:
+        * Se o furo a retificar for de diâmetro maior que o furo da placa, afaste a peça da face da placa para permitir a saída do rebolo.
+
+    3. Centre a peça.
+
+    4. Posicione o cabeçote para retificação interna.
+
+    5. Fixe o mandril porta-rebolo.
+
+    6. Fixe o rebolo no mandril porta-rebolo.
+
+        Observações:
+        * Utilize o rebolo de maior diâmetro possível, de acordo com o furo a retificar;
+        * O comprimento do mandril deve ser o menor possível.
+
+    7. Dresse o rebolo.
+        Precaução:
+        * Ao dressar o rebolo, coloque-se ao lado dele, para evitar que os grãos abrasivos desprendidos o atinjam.
+
+    8. Limite o curso da mesa.
+        Observações:
+        * O rebolo deve ultrapassar a peça apenas 1/3 de sua largura em ambos os lados do furo.
+
+        * Certifique-se de que ao deslocar a mesa, o rebolo não atinja a placa.
+
+    9. Posicione e referencie, pelo anel graduado, o rebolo dentro do furo.
+        Observação:
+        * O sentido de rotação da peça deve ser inverso ao sentido do rebolo.
+        * O contato do rebolo no furo deve ser feito no sentido do avanço do cabeçote porta-rebolo.
+        * Para fazer a referência o rebolo e o cabeçote devem estar ligados
+
+    10. Retifique até uniformizar a superfície.
+
+    11. Desligue a retificadora e limpe o furo.
+        Precaução:
+        * Para limpar o furo, deixe a máquina parar por completo e use um pano sem fiapos.
+
+    12. Verifique, com o micrômetro interno, a medida do furo em seus extremos.
+
+    13. Corrija o paralelismo da mesa, se for necessário.
+
+    14. Retifique até atingir a medida desejada.
+        Observações:
+        * Dê passes finos considerando que o mandril porta-rebolo se flexionará ao se dar muita penetração e, por consequência, o rebolo sofrerá desgaste rápido e o furo, deformações.
+        * Em cada penetração, desloque a mesa 2 ou 3 vezes até que o rebolo não desprenda mais fagulhas.
+
+19**Retificar superfície cônica interna**
+    Retificar superfície cônica interna é uma operação aplicada a peças que possuem furos cônicos, que exigem uma exatidão dimensional e um baixo valor de rugosidade, como, por exemplo, mandris e buchas.
+
+    Processo de execução:
+
+    1. Fixe a placa no cabeçote porta-peça.
+
+    2. Fixe a peça na placa.
+        Observação:
+        * Se o diâmetro do furo a retificar for maior do que o diâmetro do furo da placa, afaste a peça da face da placa para permitir a saída do rebolo.
+
+    3. Centre a peça na placa universal de três castanhas.
+
+    4. Coloque o cabeçote de retificação interna na posição de trabalho e fixe-o.
+
+    5. Fixe o mandril porta-rebolo.
+
+    6. Fixe o rebolo no mandril porta-rebolo.
+        Observação:
+        * Utilize o rebolo de maior diâmetro possível em relação ao furo a ser retificado.
+
+    7. Dresse o rebolo.
+        Precaução:
+
+        * Durante a dressagem do rebolo, coloque-se a seu lado, para não ser atingido pelos grãos desprendidos.
+
+    8. Incline o cabeçote porta-peça.
+        Observações:
+        * O sentido de rotação da peça deve ser inverso ao sentido do rebolo.
+        * Para inclinar o cabeçote porta-peça, afrouxe as porcas da base graduada, girando-a até o ângulo desejado e apertando novamente as porcas para sua fixação. 
+
+    9. Limite o curso da mesa.
+        Observações:
+        * O rebolo deve ultrapassar a peça em 1/3 de sua largura em ambos os lados do furo cônico.
+        * Certifique-se de que, ao deslocar a mesa, o rebolo não toque as castanhas da placa.
+
+    10. Posicione e referencie, pelo anel graduado, o rebolo dentro do furo.
+        Observação:
+        * O contato do rebolo no furo deve ser feito no sentido do avanço do cabeçote porta-rebolo.
+        * Para fazer a referência o rebolo e o cabeçote devem estar ligados.
+
+    11. Retifique até uniformizar a superfície.
+
+    12. Desligue a retificadora e limpe o furo.
+
+        Precaução:
+        * Para limpar o furo, deixe a máquina parar por completo e use panos sem fiapos.
+
+    13. Sobre a superfície do calibrador padrão, marque três linhas longitudinais equidistantes com tinta de contraste ou pasta de ajuste.
+
+    14. Introduza com cuidado o calibrador padrão no furo cônico, fazendo-o girar suavemente em forma de hélice.
+    15. Retire o calibrador e observe as marcas produzidas.
+        Observação:
+        * Se o calibrador padrão não se ajusta perfeitamente à superfície retificada, as marcas se apagam parcialmente em um extremo ou outro, indicando maior ou menor ângulo, ficando indicações visíveis.
+
+    16. Faça as correções necessárias no deslocamento angular da mesa ou no cabeçote porta-peça até que a conicidade do furo coincida com a do calibrador padrão.
+        Observação:
+        * Repita este passo quantas vezes forem necessárias.
+
+    17. Retifique até atingir a medida desejada.
+        Observações:
+        * Dê passes leves, considerando que o mandril se flexionará ao se avançar na profundidade de corte, causando um desgaste rápido do rebolo e a deformação do furo.
+        * A cada penetração deixe a mesa deslocar 2 ou 3 vezes até que o rebolo não solte mais fagulhas.
+
+20**Abrir rosca trapezoidal externa**
+    Abrir rosca trapezoidal externa é um processo mecânico de usinagem destinado à obtenção de filetes trapezoidais, por meio da abertura de um sulco helicoidal de passo uniforme, em superfícies cilíndricas. Para tanto, a peça ou a ferramenta gira e uma delas se desloca simultaneamente segundo uma trajetória retilínea paralela ao eixo de rotação.
+
+    Este tipo de rosca geralmente é utilizado em sistemas mecânicos submetidos a grandes esforços de transmissão.
+
+    Processo de execução:
+
+    Sem abertura prévia de sulco de perfil quadrado:
+
+        1. Monte e prepare a peça.
+
+        2. Monte a ferramenta de perfil trapezoidal.
+            Observações:
+            * Para roscas externas é recomendável o emprego de suporte flexível, evitando trepidações no material.
+            * Utilize escantilhão para posicionar a ferramenta.
+            * Na falta do escantilhão, monte a ferramenta no porta-ferramentas do torno e incline o carro superior num ângulo que corresponda à metade do ângulo da ferramenta. Utilize a face lisa da placa como referência e aproxime a aresta de corte lateral da ferramenta, liberando o porta-ferramentas. Faça coincidir a aresta de corte lateral da ferramenta com a face lisa da placa e fixe novamente o porta-ferramentas. Retorne o carro superior à marca zero. Dessa forma, a ferramenta estará posicionada corretamente. 
+        3. Selecione o avanço do torno.
+
+        4. Selecione a rotação adequada para roscar.
+
+        5. Ligue o torno e referencie a ferramenta com o anel graduado do carro transversal.
+
+        6. Inicie o corte. 
+            Observação:
+            * Use fluido de corte adequado ao material que será roscado.
+
+        7. Dê os passes necessários até atingir a altura da rosca.
+            Observação:
+            * Dê folga lateral em ambos os lados.
+
+        8. Verifique a rosca com um calibrador ou com a contra peça.
+
+    Com abertura prévia de sulco de perfil quadrado:
+
+        1. Monte e prepare a peça.
+
+        2. Monte a ferramenta de perfil quadrado para fazer o sulco.
+            Observações:
+            * Para roscas externas é recomendável o emprego de suporte flexível, evitando trepidações no material.
+            * A largura da ferramenta de perfil quadrado corresponde a largura do fundo do trapézio.
+
+        3. Selecione o avanço do torno.
+
+        4. Selecione a rotação adequada para roscar.
+
+        5. Ligue o torno e referencie a ferramenta com o anel graduado do carro transversal.
+
+        6. Inicie o corte. 
+            Observações:
+            * Use fluido de corte adequado ao material que será roscado.
+
+        7. Dê os passes necessários até atingir a altura da rosca.
+
+        8. Monte a ferramenta para tornear as laterais da rosca.
+            Observações:
+            * O posicionamento da ferramenta pode ser feito com o auxílio de um verificador de ângulos.
+        9. Ligue o torno e engate o carro para posicionar a ferramenta no centro do canal. 
+            Observação:
+            * O posicionamento da ferramenta no centro do canal é feito movimentando longitudinalmente o carro superior.
+
+        10. Referencie a ferramenta pelo anel graduado do carro transversal.
+
+        11. Dê os passes necessários, até completar a rosca.
+            Observação:
+            * Em roscas de passos maiores, é preferível o uso de duas ferramentas para perfilar as laterais da rosca, uma de cada vez, evitando grandes esforços. 
+        12. Verifique a rosca com um calibrador ou com a contra peça.
+21**Abrir rosca múltipla trapezoidal externa**
+    Abrir rosca múltipla trapezoidal externa é um processo mecânico de usinagem destinado à obtenção de filetes trapezoidais, por meio da abertura de mais de um sulco helicoidal de passo uniforme, em superfícies cilíndricas. Para tanto, a peça ou a ferramenta gira e uma delas se desloca simultaneamente segundo uma trajetória retilínea paralela ao eixo de rotação.
+
+    As roscas múltiplas são aplicadas em parafusos e porcas de comando de movimento ou em peças que exigem um fechamento rápido, como fusos para prensas e buchas roscadas.
+
+    Processo de execução:
+
+    1. Fixe a peça no torno.
+        Observação:
+        * Dependendo da peça, pode-se montá-la na placa de três ou quatro castanhas ou entre pontas.
+
+    2. Posicione as alavancas da caixa de avanço para o passo desejado.
+
+    3. Selecione a rotação apropriada para execução da rosca.
+
+    4. Prepare e fixe a ferramenta.
+        Observações:
+        * Utilize escantilhão para posicionar a ferramenta.
+        * Na falta do escantilhão, monte a ferramenta no porta-ferramentas do torno e incline o carro superior num ângulo que corresponda à metade do ângulo da ferramenta. Utilize a face lisa da placa como referência e aproxime a aresta de corte lateral da ferramenta, liberando o porta-ferramentas. Faça coincidir a aresta de corte lateral da ferramenta com a face lisa da placa e fixe novamente o porta-ferramentas. Retorne o carro superior à marca zero. Dessa forma, a ferramenta estará posicionada corretamente.
+        * Em alguns casos é necessário abrir, previamente, sulcos de perfil quadrado.
+        * Para roscas com ângulo de hélice ? inferior a 12º, a aresta de corte da ferramenta deve ser horizontal. Para ângulos de hélice superiores a 12º, a aresta da ferramenta deve ser perpendicular ao flanco do filete. 
+    5. Faça a primeira entrada de filetes.Faça a segunda entrada, deslocando a ferramenta, por meio do carro superior, um valor igual ao passo. 
+
+    6. Repasse todas as entradas até a medida final.
+        Observação:
+        * Dê os passes necessários para o ajuste da porca de referência.
+
+22**Abrir rosca trapezoidal interna**
+    Abrir rosca trapezoidal interna é um processo mecânico de usinagem destinado à obtenção de filetes trapezoidais, por meio da abertura de um sulco helicoidal de passo uniforme, em superfícies cilíndricas internas. Para tanto, a peça ou a ferramenta gira e uma delas se desloca simultaneamente segundo uma trajetória retilínea paralela ao eixo de rotação.
+
+    Este tipo de rosca geralmente é utilizada em sistemas mecânicos submetidos a grandes esforços de transmissão.
+
+    Processo de execução:
+
+    1. Monte e prepare a peça.
+
+    2. Monte a ferramenta de perfil trapezoidal. 
+        Observações:
+        * Verifique se o corpo da ferramenta passa com folga no furo da peça e se a ponta da ferramenta ultrapassa o comprimento da peça.
+        * Utilize escantilhão para posicionar a ferramenta.
+        * Na falta do escantilhão, monte a ferramenta no porta-ferramentas do torno e incline o carro superior num ângulo que corresponda à metade do ângulo da ferramenta. Utilize a face lisa da placa como referência e aproxime a aresta de corte lateral da ferramenta, liberando o porta-ferramentas. Faça coincidir a aresta de corte lateral da ferramenta com a face lisa da placa e fixe novamente o porta-ferramentas. Retorne o carro superior à marca zero. Dessa forma, a ferramenta estará posicionada corretamente.
+        * Em alguns casos é necessário abrir, previamente, sulcos de perfil quadrado.
+
+    3. Selecione o avanço do torno.
+
+    4. Selecione a rotação adequada para roscar.
+
+    5. Ligue o torno e referencie a ferramenta com o anel graduado do carro transversal.
+
+    6. Inicie o corte. 
+        Observação:
+        * Use fluido de corte adequado ao material que será roscado.
+
+    7. Dê os passes necessários até atingir a altura da rosca.
+        Observação:
+    * Dê folga lateral em ambos os lados se necessário.
+
+    8. Verifique a rosca com um calibrador ou com a contra peça.
+
+23**Executar furo coordenado**
+    Executar furo coordenado na fresadora consiste em realizar furo com rigorosa precisão de posição por meio de coordenadas do plano cartesiano. Estas coordenadas são obtidas pelo deslocamento da mesa em relação ao eixo-árvore.
+
+    Esta operação é geralmente feita como passo prévio para mandrilar ou coordenar furações que não permitam o acúmulo de erros de posição, partindo das arestas ou centros de referência.
+
+    Processo de execução:
+
+    1. Fixe a peça.
+        Observações:
+        * A peça pode ser fixada na morsa, na mesa divisora ou diretamente sobre a mesa da fresadora, dependendo do seu tamanho e forma;
+        * É importante que a peça seja alinhada, quando fixada na morsa ou na mesa da fresadora;
+        * Ao final do furo deve-se garantir que a broca passe livremente sem atingir calços, o corpo da morsa ou a mesa da fresadora.
+
+    2. Fixe o mandril porta-pinça.
+        Observação:
+        * Dependendo da posição do furo, o mandril porta-pinça poderá ser montado no eixo principal ou no cabeçote vertical.
+
+    3. Coordene o furo.
+        Observações:
+        * O furo deve ser coordenado tangenciando as faces de referência com o localizador de aresta (centralizador mecânico). O centralizador mecânico é constituído de duas hastes, montadas no mandril porta-broca ou pinça, sendo que a haste inferior se desalinha da superior no momento do tangenciamento, isto é, quando o centralizador toca a superfície de referência da peça.
+        * Na ausência de um centralizador mecânico, utiliza-se um pino retificado, pintado com tinta de traçagem. Quando o pino tocar a peça, a tinta será riscada indicando que ocorreu o tangenciamento.
+        * Desconte a metade do diâmetro do centralizador ou do pino retificado para obter a localização efetiva da aresta da peça.
+
+    4. Selecione a rotação adequada com base no diâmetro menor da broca de centrar e ligue a fresadora.
+
+    5. Faça o furo de centro.
+        Observações:
+        * Use fluido de corte para refrigerar a broca de centrar.
+        * O furo de centro assegura que não haja desvio.
+
+    6. Substitua a broca de centrar pela broca helicoidal.
+
+    7. Selecione a rotação adequada e inicie o furo com movimento de penetração manual.
+        Observações:
+        * O material deverá ser aproximado da broca até que a penetração atinja o seu diâmetro efetivo.
+
+        * Utilize fluido de corte constantemente.
+        * Quando o furo for superior a 12 mm, faça primeiro um furo guia com uma broca de diâmetro ligeiramente superior à espessura do núcleo (alma) da broca que está sendo utilizada.
+
+    8. Situe e fixe os limitadores para o avanço automático.
+
+    9. Regule o avanço automático.
+
+    10. Ligue o avanço automático e termine o furo.
+        Observação:
+        * No caso de furos não passantes (cegos), limpe o furo e verifique sua profundidade.
+
+    11. Havendo a necessidade de se fazer outros furos, deslocar a mesa, por meio do anel graduado.
+
+24**Calibrar furos com alargador na fresadora**
+    Calibrar furo com alargador na fresadora é uma operação utilizada para a obtenção de uma dimensão precisa e de uma baixa rugosidade.
+
+    Emprega-se na execução de furos normalizados em buchas, mancais, polias e guias cilíndricas de máquinas.
+
+    Processo de execução:
+
+    1. Fixe a peça na morsa ou na cantoneira, considerando a melhor posição para o trabalho. 
+        Observação:
+        * A peça deve ser furada com diâmetro menor, prevendo sobremetal no furo, considerando o material da peça e o diâmetro do furo.
+
+    2. Prenda o alargador na fresadora. 
+
+        Observações:
+        * Escolha o alargador adequado para o trabalho em máquinas. Verifique se está bem afiado e na medida desejada.
+        * Os alargadores de haste cilíndrica são montados em porta-pinças e os de haste cônica são montados diretamente no eixo-árvore da máquina.
+
+    3. Posicione o alargador no centro do furo. 
+    4. Selecione a rotação e o avanço do alargador de acordo com tabela técnica.
+
+    5. Ligue a máquina e o avanço automático.
+        Observações:
+        * Quando a máquina for desprovida de avanço automático, dê avanço manual;
+        * Use fluido de corte adequado ao material.
+
+    6. Termine de passar o alargador no furo, desligue o avanço automático, retire o alargador do furo e desligue a máquina.
+
+    7. Verifique a dimensão do furo, usando micrômetro interno ou calibrador tampão.
+
+        Observação:
+        * Limpe o furo antes da verificação.
+25**Serrar peças com serra de fita vertical**
+    Serrar peças com serra de fita vertical é a operação mecânica por meio da qual se corta um material com uma serra de fita, submetida a um movimento contínuo circular. Os cortes podem ser retos, curvos ou mistos, com ou sem saída. Esta operação é aplicada na preparação de peças a serem usinadas.
+
+    Processo de execução:
+
+    1. Trace a linha de referência de corte no material.
+
+    2. Selecione a lâmina de serra.
+        Observações:
+        * A largura da serra de fita varia em função do raio mínimo a ser cortado.
+        * O número de dentes deve estar de acordo com o tipo de material a ser cortado e a sua espessura.
+        * O comprimento, em geral, é especificado na máquina e pode também ser calculado de acordo com os diâmetros dos volantes e a distância entre centros.
+        * As guias são selecionadas e ajustadas em função da largura e da espessura da serra de fita.
+
+    3. Afrouxe o tensor e coloque a serra. 
+
+        Observações:
+        * Os dentes da serra devem estar voltados para baixo e em direção ao operador.
+        * Quando o corte for interno ou sem saída, corte a serra de fita, introduza-a no furo previamente feito e solde-a em seguida. 
+    4. Ajuste a serra, girando o tensor.
+
+    5. Feche as proteções da máquina.
+
+    6. Selecione a rotação da máquina em função do material a ser cortado, consultando as informações técnicas.
+        Observação:
+        * Nas máquinas com variadores de velocidade, regule a rotação com a máquina em funcionamento. Nas máquinas com polias escalonadas, desligue a máquina e troque a rotação.
+
+    7. Regule a altura da guia.
+        Observação:
+        * Na regulagem da guia, deixe aproximadamente cinco milímetros acima do material a ser cortado.
+
+    8. Verifique o ângulo de inclinação da mesa.
+        Observações:
+        * Para cortes perpendiculares, o ângulo de inclinação da mesa deve ser zero.
+        * Para cortes em ângulo, incline a mesa segundo o ângulo do corte. 
+    9. Ligue a máquina e, com o auxílio do dispositivo, aproxime o material da lâmina de serra. Inicie o corte, exercendo uma pequena força. 
+    10. Termine o corte, respeitando o traçado.
+        Observações:
+        * Ao se aproximar do final do corte, deve-se diminuir a pressão do material contra a serra.
+
+26**Fresar dentes helicoidais**
+    Fresar dentes helicoidais é produzir ranhuras com orientação em hélice sobre a superfície cilíndrica de uma peça, por meio da ação de corte de uma ferramenta de perfil constante, atuando de forma conjugada com o movimento simultâneo do cabeçote divisor, sincronizado com o avanço longitudinal da mesa, por meio de um trem de engrenagem. 
+
+    Esta operação é utilizada, por exemplo, para fresar engrenagens de dentes helicoidais, conjunto coroa- pinhão etc.
+
+    Processo de execução:
+
+    1. Prepare o cabeçote divisor e coloque-o no extremo da mesa fresadora sem fixá-lo.
+
+    2. Monte o suporte de engrenagens e o trem de engrenagens.
+
+        * Neste trem de engrenagens o eixo condutor é o fuso da mesa e o eixo conduzido é o secundário do cabeçote divisor;
+        * O número de rodas intermediárias deve estar de acordo com o sentido da hélice e com as necessidades da montagem.
+
+    3. Solte o disco do cabeçote divisor e deixe o pino retrátil da manivela introduzido no furo de referência.
+
+    4. Fixe o cabeçote divisor e o suporte de engrenagens.
+
+    5. Fixe a peça.
+
+    6. Fixe a fresa.
+
+    7. Centre a fresa em relação à peça e referencie pelo anel graduado.
+
+    8. Incline a mesa ou o cabeçote universal conforme o ângulo de hélice.
+
+    9. Retroceda a mesa para que o material se afaste da fresa.
+
+    10. Selecione e regule as velocidades de avanço e rpm.
+
+    11. Posicione e fixe os limitadores do avanço automático.
+
+    12. Posicione o compasso, determinando o setor.
+
+    13. Dê a profundidade de corte.
+
+    14. Frese a primeira ranhura.
+
+        * A profundidade de corte deve estar de acordo com a fresa e com o material.
+        * Coloque a máquina em funcionamento e inicie o corte manualmente.
+        * Se necessário, use fluido de corte.
+        * Termine a ranhura com avanço automático.
+        * Desloque a mesa para baixo de forma que a fresa fique fora do material.
+        * Volte a mesa à posição inicial, no sentido horizontal.
+        * Desloque a mesa para cima na profundidade de corte.
+        * Dê os passes necessários para alcançar a profundidade desejada.
+
+    15. Gire a manivela do divisor para fresar a segunda ranhura.
+
+    16. Frese a segunda ranhura, considerando as observações do passo 14.
+
+    17. Meça o dente com paquímetro para medir dentes de engrenagens. 
+    18. Frese as demais ranhuras, considerando as observações do passo 14.
+
+27**Embuchar peças**
+    Esta operação consiste em introduzir um elemento intermediário, a bucha, entre um eixo e um corpo de sustentação (mancal ou polia). 
+
+    As buchas são elementos mecânicos de baixo coeficiente de atrito e, quando se desgastam, são facilmente substituídas sem danificar o mecanismo principal, possibilitando assim uma reparação mais econômica.
+
+    Prensagem longitudinal
+
+    É indicada para a união de elementos de pequeno porte. O ajuste ideal para este tipo de montagem indica que os afastamentos devem possibilitar a interferência entre os elementos. Este tipo de embuchamento é caracterizado pela deformação elástica mediante a força longitudinal provocada por uma pressão ou pancada de martelo.
+
+    Processo de execução:
+
+    1. Limpe as peças.
+
+    2. Elimine todas as rebarbas do furo ou do eixo a ser embuchado.
+
+    3. Lubrifique as superfícies de contato de ambos.
+
+    4. Encaixe a extremidade da bucha na peça. 
+    5. Corrija a perpendicularidade da bucha em relação à face de referência com um esquadro. 
+    6. Coloque sobre a bucha um calço paralelo, liso e limpo.
+
+    7. Posicione a peça sobre a mesa da prensa.
+        Observação:
+        * Utilize uma base plana para apoiar a peça, se necessário.
+    8. Inicie o embuchamento e verifique se a bucha mantém o esquadro.
+
+    9. Complete a operação introduzindo a bucha totalmente.
+
+28**Calibrar furo com alargador fixo manualmente**
+    Calibrar furo com alargador fixo manualmente é uma operação utilizada para a obtenção de uma dimensão precisa e de uma baixa rugosidade. 
+
+    Processo de execução:
+
+    1. Prenda a peça.
+
+    2. Selecione o alargador de acordo com o diâmetro desejado.
+        Observação:
+        * Verifique o sobremetal do furo.
+
+    3. Selecione o desandador.
+        Observação:
+        * As dimensões do desandador devem ser proporcionais ao diâmetro e ao arraste quadrado da haste do alargador.
+
+    4. Monte o alargador no desandador.
+
+    5. Introduza o alargador no furo, de modo que fique perpendicular à superfície da peça. 
+
+    6. Aplique o fluido de corte de acordo com o material consultando uma tabela.
+
+    7. Inicie a operação, girando o alargador lenta e continuamente no sentido horário e exercendo uma suave pressão.
+        Observação:
+        * Gire a ferramenta sempre no sentido horário, senão a ação da ferramenta será contrária ao corte, podendo quebrar os gumes cortantes do alargador e danificar o acabamento interno do furo.
+
+    8. Termine de passar o alargador.
+
+    9. Retire o alargador, girando-o também no sentido horário e exercendo uma força para fora do furo. 
+        Observação:
+        * Sempre que retirar o alargador, limpe as arestas cortantes.
+
+    10. Limpe o furo.
+
+    11. Verifique as medidas com micrômetro interno ou com calibrador tampão passa-não-passa.
+29**Calibrar furo com alargador cônico manualmente**
+    Calibrar furo manualmente com alargador cônico consiste em dar a um furo a forma cônica padronizada e baixa rugosidade, por meio da rotação e avanço preestabelecido de um alargador cônico.
+
+    Os furos cônicos são feitos na montagem de conjuntos mecânicos que sejam periodicamente desmontados para manutenção. Nesses furos são alojados pinos cônicos que facilitam a montagem e desmontagem dos conjuntos.
+
+    Processo de execução:
+
+    1. Fure as peças, verificando o esquadro do furo.
+        Observações:
+        * As peças devem ser unidas e furadas na posição de montagem.
+        * O diâmetro da broca deve ser o mesmo do diâmetro nominal do furo cônico, ou seja, o menor diâmetro do furo cônico.
+
+    2. Selecione o alargador.
+        Observação:
+        * A escolha do alargador depende da conicidade e dimensão do furo cônico.
+
+    3. Selecione o desandador.
+        Observação:
+        * O tamanho do desandador deve ser proporcional ao diâmetro do alargador.
+
+    4. Introduza o alargador no furo. 
+    5. Gire o alargador no sentido de corte.
+        Observação:
+        * Se necessário, aplique fluido de corte.
+        * Exerça uma leve pressão no alargador contra o furo. 
+        * No caso de furos de grande diâmetro, deve-se passar primeiro o alargador de desbaste. 
+    6. Faça a verificação do furo cônico.
+        Observações:
+        * Para verificar o furo, deve-se retirar o alargador girando-o também no sentido de corte e ao mesmo tempo fazendo uma pressão para fora do furo.
+        * Sempre que retirar o alargador, limpe as suas navalhas com um pincel.
+        * Antes de verificar o furo, limpe-o com um pano.
+        * Verifique se o pino cônico está totalmente embutido garantindo a fixação das peças. 
+    7. Se necessário, repita os passos 4 a 6 até obter o cone desejado.
+
+30**Calibrar furo com alargador expansível manualmente**
+    Calibrar furo com alargador expansível é uma operação utilizada para a obtenção de uma dimensão precisa e de uma baixa rugosidade, por meio da rotação e avanço de um alargador de navalhas reguláveis, que permitem obter uma variedade de dimensões. 
+
+    Processo de execução:
+
+    1. Escolha o alargador.
+        Observação:
+        * A dimensão do furo deve estar dentro dos limites máximo e mínimo do alargador.
+    2. Fixe a peça.
+
+    3. Selecione o desandador.
+        Observação:
+        * As dimensões do desandador devem ser proporcionais ao diâmetro e ao arraste quadrado da haste do alargador.
+
+    4. Regule o alargador.
+        Observações:
+        * Verifique se há necessidade de aumentar ou diminuir o diâmetro do alargador, comparando- o com o diâmetro do furo.
+        * Prenda o alargador na morsa e desloque as navalhas por meio das porcas utilizadas para aumentar ou reduzir o diâmetro. 
+        * Para aumentar o diâmetro, afrouxe a porca superior e aperte a porca inferior. Para reduzir, proceda inversamente.
+        * Se o alargador for de expansão central, gire o parafuso de expansão, segundo a necessidade. 
+
+    5. Monte o alargador no desandador.
+
+    6. Introduza o alargador no furo. 
+    7. Gire o alargador no sentido de corte.
+        Observação:
+        * Se necessário, aplique o fluido de corte.
+        * Exerça uma leve pressão no alargador contra o furo. 
+    8. Retire o alargador, girando-o no sentido de corte e puxando-o para fora do furo.
+        Observação:
+        * Sempre que retirar o alargador, limpe as navalhas com um pincel.
+    9. Limpe o furo.
+    10. Verifique as medidas com micrômetro interno ou calibrador tampão. 
+        Observações:
+        * Se necessário, repita os passos de 5 a 10 até obter a dimensão desejada.
+        * Ao guardar o alargador, manter as porcas reguladoras afrouxadas.
